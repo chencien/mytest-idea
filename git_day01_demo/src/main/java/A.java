@@ -6,6 +6,7 @@ public class A {
         System.out.println("疑是银河落九天");
 
         System.out.println("两个黄鹂鸣翠柳");
+        System.out.println("还是没有女朋友");
 
     }
 }
