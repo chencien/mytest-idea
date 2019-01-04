@@ -8,5 +8,6 @@ public class A {
         System.out.println("两个黄鹂鸣翠柳");
         System.out.println("还是没有女朋友");
 
+        System.out.println("还是没有男朋友");
     }
 }
